@@ -10,6 +10,8 @@
   Link to privacy policy of service providers used by the app
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 * [Firebase Analytics](https://firebase.google.com/policies/analytics)
+* [Facebook](https://www.facebook.com/policies/)
+* [Twitter](http://twitter.com/policies/)
 
 **Log Data**
 
